@@ -11,7 +11,8 @@ You can edit this to trade in anything for anything. Mess around with it and hav
 
 - make sure to add
 - ```
-  ensure brp-mattrade```
+  ensure brp-mattrade
+  ```
 - to your server.cfg
 - If you have it in a subfolder like [standalone] no need to ensure it
 - restart the server
