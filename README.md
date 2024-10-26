@@ -6,6 +6,7 @@ You can edit this to trade in anything for anything. Mess around with it and hav
 ## Installation
 
 - unzip the file → brp-mattrade
+- Remove main from the name
 - place it in your server's resource folder
 
 - make sure to add
