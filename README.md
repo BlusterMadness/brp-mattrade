@@ -18,6 +18,7 @@ You can edit this to trade in anything for anything. Mess around with it and hav
 
 ## Dependencies
 
+- QBcore
 - NONE! But I did make this to work with jim-recycle to trade in your blue bins for materials of your choosing.
 
 ## Credits
