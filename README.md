@@ -17,9 +17,11 @@ You can edit this to trade in anything for anything. Mess around with it and hav
 - restart the server
 
 ## Dependencies
-
 - QBcore
+
+## Requirements
 - NONE! But I did make this to work with jim-recycle to trade in your blue bins for materials of your choosing.
+- You can edit the items you trade and reveive
 
 ## Credits
 You can do what you want with this script.
