@@ -22,7 +22,7 @@ You can edit this to trade in anything for anything. Mess around with it and hav
 
 ## Requirements
 - NONE! But I did make this to work with jim-recycle to trade in your blue bins for materials of your choosing.
-- You can edit the items you trade and reveive
+- You can edit the items you trade and receive
 
 ## Credits
 You can do what you want with this script.
